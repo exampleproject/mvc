@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rakit/validation": "^1.2",
+        "sivka/paginator": "^2.0"
+    }
+}
